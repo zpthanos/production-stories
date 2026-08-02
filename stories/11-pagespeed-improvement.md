@@ -1,25 +1,48 @@
+<div align="center">
+
 # PageSpeed improvement on a large WooCommerce catalogue
 
-[← All production stories](../README.md)
+**Improving performance without breaking critical ecommerce journeys**
 
-`WooCommerce` `PageSpeed` `LiteSpeed` `Cloudflare`
+`WooCommerce` · `PageSpeed` · `LiteSpeed` · `Cloudflare`
 
-## Situation
+</div>
 
-Product pages on [StamatopoulosBikes.gr](https://www.stamatopoulosbikes.gr/) recorded a PageSpeed score below 20, creating a poor browsing experience across a large ecommerce catalogue.
+> **Outcome:** Increased the product-page PageSpeed score from below 20 to above 75 while keeping the production storefront operational.
 
-## Task
+## At a glance
 
-I needed to improve performance without breaking catalogue, cart, or checkout functionality.
+| | |
+| --- | --- |
+| **Site** | [StamatopoulosBikes.gr](https://www.stamatopoulosbikes.gr/) |
+| **Measured change** | Below 20 → above 75 |
+| **Role signal** | Performance engineering · Controlled change · Regression testing |
 
-## Action
+## 1. Situation
 
-I introduced LiteSpeed caching, reduced CSS overhead, removed unused plugins, configured Cloudflare optimizations, and enabled server-side compression. I then retested critical ecommerce journeys.
+Product pages recorded a PageSpeed score below 20, creating a poor browsing experience across a large ecommerce catalogue.
 
-## Result
+## 2. Objective
+
+Improve performance without breaking catalogue, cart or checkout functionality.
+
+## 3. What I did
+
+- Introduced LiteSpeed caching.
+- Reduced CSS overhead.
+- Removed unused plugins.
+- Configured Cloudflare optimizations.
+- Enabled server-side compression.
+- Retested critical ecommerce journeys.
+
+## 4. Result
 
 The PageSpeed score increased from below 20 to above 75 while the production storefront remained operational.
 
-## CV-ready summary
+## Recruiter takeaway
 
-> Increased PageSpeed performance on a 2,000+ product WooCommerce site from below 20 to above 75 through LiteSpeed caching, CSS reduction, plugin cleanup, Cloudflare tuning, and server-side compression.
+> Increased PageSpeed performance on a 2,000+ product WooCommerce site from below 20 to above 75 through LiteSpeed caching, CSS reduction, plugin cleanup, Cloudflare tuning and server-side compression.
+
+---
+
+[← Previous](10-accessibility-checkout-defect.md) · [All stories](../README.md) · [Next →](12-technical-seo.md)
