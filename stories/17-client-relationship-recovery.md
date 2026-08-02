@@ -1,25 +1,47 @@
+<div align="center">
+
 # Recovering an unhappy client relationship
 
-[← All production stories](../README.md)
+**Reopening requirements and turning dissatisfaction into an approved result**
 
-`Client recovery` `Requirements` `Communication` `Delivery`
+`Client recovery` · `Requirements` · `Communication` · `Delivery`
 
-## Situation
+</div>
 
-The customer behind [DRS953.gr](https://www.drs953.gr/) was dissatisfied with the first website version delivered by the team.
+> **Outcome:** Restored customer confidence, coordinated a revised delivery and completed the project with customer approval.
 
-## Task
+## At a glance
 
-I needed to understand the underlying concerns, restore the customer's confidence, and guide the project toward an acceptable result.
+| | |
+| --- | --- |
+| **Site** | [DRS953.gr](https://www.drs953.gr/) |
+| **Challenge** | Customer dissatisfied with the first version |
+| **Role signal** | Account recovery · Requirements clarification · Delivery coordination |
 
-## Action
+## 1. Situation
 
-I reopened the requirements discussion, listened to the customer's feedback, reassessed the original interpretation, and coordinated a revised design and implementation with further customer validation.
+The customer behind DRS953.gr was dissatisfied with the first website version delivered by the team.
 
-## Result
+## 2. Objective
+
+Understand the underlying concerns, restore the customer's confidence and guide the project toward an acceptable result.
+
+## 3. What I did
+
+- Reopened the requirements discussion.
+- Listened carefully to the customer's feedback.
+- Reassessed the original interpretation.
+- Coordinated a revised design and implementation.
+- Included further customer validation before completion.
+
+## 4. Result
 
 The redeveloped solution met the customer's expectations and the project was completed with the customer satisfied.
 
-## CV-ready summary
+## Recruiter takeaway
 
-> Recovered an at-risk client relationship by reopening requirements, translating dissatisfaction into actionable changes, and coordinating the redesign of DRS953.gr through final customer approval.
+> Recovered an at-risk client relationship by reopening requirements, translating dissatisfaction into actionable changes and coordinating the redesign of DRS953.gr through final customer approval.
+
+---
+
+[← Previous](16-beyond-original-request.md) · [All stories](../README.md) · [Next →](18-business-value-recommendation.md)
