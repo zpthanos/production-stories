@@ -1,25 +1,47 @@
+<div align="center">
+
 # Prioritization under competing demands
 
-[← All production stories](../README.md)
+**Protecting urgent journeys while keeping multiple stakeholders informed**
 
-`Prioritization` `Stakeholders` `Release quality` `Client support`
+`Prioritization` · `Stakeholders` · `Release quality` · `Client support`
 
-## Situation
+</div>
+
+> **Outcome:** Moved critical work first, preserved release checks and kept stakeholders informed when several client requests competed for attention.
+
+## At a glance
+
+| | |
+| --- | --- |
+| **Workload** | Up to three client requests at the same time |
+| **Decision factors** | Urgency, business impact, dependencies and capacity |
+| **Role signal** | Technical account management · Prioritization · Delivery control |
+
+## 1. Situation
 
 I regularly handled requests from as many as three clients simultaneously while also receiving incomplete requirements and short deadlines from another stakeholder.
 
-## Task
+## 2. Objective
 
-I needed to protect urgent business journeys while keeping every stakeholder informed and maintaining delivery quality.
+Protect urgent business journeys while keeping every stakeholder informed and maintaining delivery quality.
 
-## Action
+## 3. What I did
 
-I assessed requests by operational urgency, customer impact, dependencies, and available team capacity; identified missing information; resequenced work where necessary; and communicated updated priorities and timelines before proceeding.
+- Assessed requests by operational urgency and customer impact.
+- Identified dependencies and available team capacity.
+- Clarified missing information.
+- Resequenced work where necessary.
+- Communicated updated priorities and timelines before proceeding.
 
-## Result
+## 4. Result
 
-Critical work moved forward first, stakeholders retained visibility over changes, and release checks were preserved despite competing demands.
+Critical work moved forward first, stakeholders retained visibility over changes and release checks were preserved despite competing demands.
 
-## CV-ready summary
+## Recruiter takeaway
 
-> Prioritize concurrent client requests by urgency, business impact, dependencies, and team capacity, proactively clarifying missing information and renegotiating timelines while protecting release quality.
+> Prioritize concurrent client requests by urgency, business impact, dependencies and team capacity, proactively clarifying missing information and renegotiating timelines while protecting release quality.
+
+---
+
+[← Previous](14-ambiguous-requirements.md) · [All stories](../README.md) · [Next →](16-beyond-original-request.md)
