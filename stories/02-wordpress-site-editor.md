@@ -1,25 +1,46 @@
+<div align="center">
+
 # WordPress Site Editor expertise
 
-[← All production stories](../README.md)
+**Delivering consistent site-wide design without unnecessary custom code**
 
-`WordPress` `Site Editor` `Block themes` `Design systems`
+`WordPress` · `Site Editor` · `Block themes` · `Design systems`
 
-## Situation
+</div>
+
+> **Outcome:** Created maintainable templates, global styles and reusable patterns that kept branding consistent across entire websites.
+
+## At a glance
+
+| | |
+| --- | --- |
+| **Platform** | WordPress Site Editor and block themes |
+| **Focus** | Templates, global styles, navigation and reusable patterns |
+| **Role signal** | Web platforms · Customer delivery · Maintainable implementation |
+
+## 1. Situation
 
 Clients regularly required structural and visual website changes that needed to remain consistent across an entire site.
 
-## Task
+## 2. Objective
 
-I needed to implement those changes efficiently through WordPress while maintaining reusable layouts and consistent branding.
+Implement those changes efficiently through WordPress while maintaining reusable layouts and consistent branding.
 
-## Action
+## 3. What I did
 
-I used the Site Editor to modify headers, footers, single-post layouts, archive templates, and 404 pages. I configured global typography, colors, and spacing; created reusable block patterns; and built and reorganized navigation menus.
+- Modified headers, footers, single-post layouts, archive templates and 404 pages.
+- Configured global typography, colours and spacing.
+- Created reusable block patterns.
+- Built and reorganized navigation menus.
 
-## Result
+## 4. Result
 
 Clients received consistent, maintainable site-wide designs that could be updated without repeatedly modifying individual pages or relying on unnecessary custom code.
 
-## CV-ready summary
+## Recruiter takeaway
 
-> Use the WordPress Site Editor to customize templates, template parts, global styles, navigation, and reusable block patterns, delivering consistent site-wide changes without unnecessary custom development.
+> Use the WordPress Site Editor to customize templates, template parts, global styles, navigation and reusable block patterns, delivering consistent site-wide changes without unnecessary custom development.
+
+---
+
+[← Previous](01-wordpress-portfolio-administration.md) · [All stories](../README.md) · [Next →](03-payoneer-funnelkit-conflict.md)
