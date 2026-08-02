@@ -1,25 +1,47 @@
+<div align="center">
+
 # Technical SEO implementation
 
-[← All production stories](../README.md)
+**Building clear crawl, indexing and structured-data foundations**
 
-`WordPress` `Technical SEO` `Structured data` `Indexing`
+`WordPress` · `Technical SEO` · `Structured data` · `Indexing`
 
-## Situation
+</div>
 
-Client sites across ecommerce, hospitality, radio, and professional services required stronger search-engine visibility and technically correct indexing.
+> **Outcome:** Improved crawl and indexing signals across diverse client sites with structured data tailored to each content and business use case.
 
-## Task
+## At a glance
 
-I needed to establish appropriate SEO foundations for each site's structure and business purpose.
+| | |
+| --- | --- |
+| **Sectors** | Ecommerce, hospitality, radio and professional services |
+| **Focus** | Indexing, metadata, canonicals, sitemaps and schema |
+| **Role signal** | Web platforms · Technical implementation · Search diagnostics |
 
-## Action
+## 1. Situation
 
-I managed search visibility, metadata, permalinks, redirects, canonical URLs, XML sitemaps, robots directives, and search-related diagnostics. I also implemented tailored structured data, including FAQ and product schema, according to the page type and intended search query.
+Client sites across ecommerce, hospitality, radio and professional services required stronger search-engine visibility and technically correct indexing.
 
-## Result
+## 2. Objective
+
+Establish appropriate SEO foundations for each site's structure and business purpose.
+
+## 3. What I did
+
+- Managed search visibility, metadata and permalinks.
+- Configured redirects and canonical URLs.
+- Maintained XML sitemaps and robots directives.
+- Investigated search-related diagnostics.
+- Implemented tailored FAQ and product structured data.
+
+## 4. Result
 
 The sites received clearer crawl and indexing signals and structured data suited to their content and commercial use cases.
 
-## CV-ready summary
+## Recruiter takeaway
 
-> Implement technical SEO across diverse WordPress sites, including redirects, canonicals, sitemaps, robots directives, metadata, and tailored FAQ and product schema.
+> Implement technical SEO across diverse WordPress sites, including redirects, canonicals, sitemaps, robots directives, metadata and tailored FAQ and product schema.
+
+---
+
+[← Previous](11-pagespeed-improvement.md) · [All stories](../README.md) · [Next →](13-post-launch-caching-defect.md)
