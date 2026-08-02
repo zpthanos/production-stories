@@ -52,7 +52,7 @@ Each story uses a simple Situation–Task–Action–Result structure. The empha
 
 ## Evidence boundaries
 
-- These are true accounts of work I performed; they are not presented as sole ownership of every wider client engagement.
+- These are true accounts of work I performed, they are not presented as sole ownership of every wider client engagement.
 - Figures are included only where I can substantiate them from the engagement, such as 60 supported sites, a 2,000+ product catalogue, the first 200 products configured, approximately 30 client engagements, and the reported PageSpeed change.
 - Public websites are named only when doing so helps explain the context. Private logs, customer data, security details, credentials, and internal documentation are not published.
 - Where public code exists, it is linked from my [GitHub profile](https://github.com/zpthanos). These stories complement that code by showing production judgment, communication, and operational responsibility.
