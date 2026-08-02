@@ -1,25 +1,46 @@
+<div align="center">
+
 # DNS and third-party services
 
-[← All production stories](../README.md)
+**Connecting websites, email and external platforms without disrupting production**
 
-`DNS` `Cloudflare` `cPanel` `Email authentication`
+`DNS` · `Cloudflare` · `cPanel` · `Email authentication`
 
-## Situation
+</div>
 
-Client websites needed to operate alongside external email, newsletter, security, and other third-party services.
+> **Outcome:** Maintained correctly authenticated and supportable DNS configurations for websites, email and connected services.
 
-## Task
+## At a glance
 
-I needed to configure routing and authentication correctly without disrupting existing website or email services.
+| | |
+| --- | --- |
+| **Platforms** | Cloudflare and cPanel |
+| **Records** | A, AAAA, CNAME, MX and TXT |
+| **Role signal** | Platform support · Integrations · Troubleshooting |
 
-## Action
+## 1. Situation
 
-I managed DNS through Cloudflare and cPanel, including nameservers and A, AAAA, CNAME, MX, and TXT records. I also configured mixed DNS arrangements for services such as Google business email authentication and newsletter platforms.
+Client websites needed to operate alongside external email, newsletter, security and other third-party services.
 
-## Result
+## 2. Objective
 
-Websites, email, and connected services operated through correctly authenticated and maintainable DNS configurations.
+Configure routing and authentication correctly without disrupting existing website or email services.
 
-## CV-ready summary
+## 3. What I did
 
-> Configure and troubleshoot Cloudflare and cPanel DNS—including A, AAAA, CNAME, MX, and TXT records—for websites, Google business email authentication, newsletter platforms, and other third-party services.
+- Managed nameservers and DNS through Cloudflare and cPanel.
+- Configured A, AAAA, CNAME, MX and TXT records.
+- Supported mixed DNS arrangements.
+- Configured services including Google business email authentication and newsletter platforms.
+
+## 4. Result
+
+Websites, email and connected services operated through correctly authenticated and maintainable DNS configurations.
+
+## Recruiter takeaway
+
+> Configure and troubleshoot Cloudflare and cPanel DNS for websites, Google business email authentication, newsletter platforms and other third-party services.
+
+---
+
+[← Previous](07-end-to-end-client-engagements.md) · [All stories](../README.md) · [Next →](09-banking-checkout-integration.md)
