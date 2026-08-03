@@ -21,7 +21,7 @@
   <rect x="1" y="1" width="1198" height="418" rx="27" fill="none" stroke="#38bdf8" stroke-opacity="0.18" stroke-width="2"/>
   <g font-family="Inter, Segoe UI, Arial, sans-serif">
     <text x="58" y="66" fill="#7dd3fc" font-size="14" font-weight="700" letter-spacing="2">ATHANASIOS ZAPRIOS</text>
-    <text x="58" y="126" fill="#f8fafc" font-size="54" font-weight="800">Production Engineering Stories</text>
+    <text x="58" y="126" fill="#f8fafc" font-size="46" font-weight="800">Production Engineering Stories</text>
     <text x="58" y="170" fill="#cbd5e1" font-size="23">Real incidents, delivery decisions and operational outcomes.</text>
     <rect x="58" y="194" width="610" height="5" rx="3" fill="url(#accent)"/>
 
