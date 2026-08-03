@@ -59,7 +59,7 @@ The goal was not to replace judgment. It was to create a faster path from **veri
 
 ## 5. Examples that prove the underlying capability
 
-The value is not that an AI tool produced text. The value is that I already have a track record of converting ambiguity, incidents and technical evidence into controlled, reusable operations. AI makes the preparation stage faster; the linked production outcomes demonstrate the judgment and delivery behind it.
+The value is not that an AI tool produced text. The value is that I already have a track record of converting ambiguity, incidents and technical evidence into controlled, reusable operations. AI makes the preparation stage faster and the linked production outcomes demonstrate the judgment and delivery behind it.
 
 | Verified production example | Capability demonstrated | Where AI adds responsible leverage |
 | --- | --- | --- |
@@ -94,7 +94,7 @@ More importantly, I developed a repeatable method for using AI inside operationa
 
 ## Recruiter takeaway
 
-> Experiment with ChatGPT and Claude to turn verified operational evidence into reusable workflows, QA plans, troubleshooting guidance and customer training material. Measure whether the approach improves preparation time, quality and reuse; enforce confidentiality and human approval; and never treat AI output as a substitute for production evidence or accountability. This directly supports Process Street's mission to automate work, enforce standards and prove compliance.
+> Experiment with ChatGPT and Claude to turn verified operational evidence into reusable workflows, QA plans, troubleshooting guidance and customer training material. Measure whether the approach improves preparation time, quality and reuse, enforce confidentiality and human approval and never treat AI output as a substitute for production evidence or accountability. This directly supports Process Street's mission to automate work, enforce standards and prove compliance.
 
 ---
 
